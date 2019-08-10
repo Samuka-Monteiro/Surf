@@ -1,4 +1,4 @@
-# Surf
+# Surf    ![](img/logo.png)
 Fully responsive stunning Surf landing page.
 
 I have used this followings technologies:
